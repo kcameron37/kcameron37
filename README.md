@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! My name is Kaitlyn Cameron! </h1>
+<h1 align="center">👋 Hello there, my name is Kaitlyn Cameron! </h1>
 
 <p align="center">
  <a href="https://kaitlyncameron.ca/">
@@ -12,6 +12,7 @@
 </p> 
 
 ### Tools & Technology 
+
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
