@@ -2,8 +2,14 @@
 
 <p align="center">
  <a href="https://kaitlyncameron.ca/">
-    <img alt="YouTube Channel Views" title="Subscribe to my YouTube channel" target="_blank" src="https://img.shields.io/badge/Portfolio%3A-Kaitlyn%20Cameron's%20Website-purple">
+    <img alt="Kaitlyn" title="Hellol" target="_blank" src="https://img.shields.io/badge/Portfolio%3A-Kaitlyn%20Cameron%20-purple">
   </a>
+   </p> 
+   <p align="center">
+<a href="https://www.linkedin.com/in/kaitlyncameron00/">
+  <img alt="Kaitlyn" title="Hellol" target="_blank" src="https://img.shields.io/badge/Linkedin%3A-Kaitlyn%20Cameron%20-purple">
+</a>
+ 
   </p> 
   
 <p align="center">
