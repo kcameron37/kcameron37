@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! My name is Kaitlyn Cameron</h1>
+<h1 align="center">👋 Hello! My name is Kaitlyn Cameron! </h1>
 
 <p align="center">
  <a href="https://kaitlyncameron.ca/">
